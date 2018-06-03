@@ -1,0 +1,30 @@
+/* add your CSS here */
+#card {
+    border: 2px solid #d3d3d3;
+    box-shadow: 5px 5px #d3d3d3;
+}
+div {
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+ }
+ div .img {
+     height: 200px;
+     width: 300px
+ }
+ span {
+     font-style: bold;
+ }
+.description {
+    max-width: 280px;
+    margin-top: 10px;
+    border: 2px solid #d3d3d3;
+}
+.factoid {
+    font-style: italic;
+}
+.list {
+    list-style-type: none;
+    padding-left: 0;
+    
+}
